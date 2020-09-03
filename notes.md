@@ -3,6 +3,8 @@
 Date: August 31, 2020
 Author: Griffin Brome
 
+[//]: # Note: I figure we can just tell them to live-boot a distro onto an old computer or use a VM.  
+
 ## Introduction
 
 ### Terminology Used
@@ -25,7 +27,7 @@ Author: Griffin Brome
 
 ### Starting a Terminal Session
 
-[//]: # TODO
+[//]: # This would be a short thing on how to launch a terminal emulator on whatever Linux distro we tell them to install
 
 ## Basic Navigation and File Operations
 
@@ -80,6 +82,7 @@ The OS is a toolbox, each tool performs only one job
 
 ### Permissions
 
+[//] This will be a short intro to permissions in Linux files (eg. all that stuff in the output of ls -l
 ### Commands
 
 - sudo
