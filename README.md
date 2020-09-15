@@ -1,20 +1,24 @@
 # Linux Workshop Notes
 
-Date: August 31, 2020
-Author: Griffin Brome
+Date: TBD
+Authors: Griffin Brome, Barret Jackson
 
 [//]: # Note: I figure we can just tell them to live-boot a distro onto an old computer or use a VM.  
 
 ## Introduction
 
+### Installing Linux
+
+[//]: # TODO
+
 ### Terminology Used
 
-- Unix == a very old operating system that was designed to be used with a shell
-- Linux == a Unix inspired operating system developed by Linus Torvalds in the 90's
-- Bash == the "Bourne Again SHell", developed by Brian Fox
-- shell == a program used to give input to the computer, and receive output back
-- terminal == a specific interface to a shell on a computer; these used to be entire machines, but now they are commonly a program run in a GUI, called "terminal emulators"
-- directory == an "old school" name for what we now call "folders"; a location on a computer that contains directories and files
+- **shell** == a program used to give text input to the computer, and receive text output back
+- **Unix** == a very old operating system that was designed to be used with a shell
+- **Linux** == a Unix inspired operating system developed by Linus Torvalds in the 90's
+- **Bash** == the "Bourne Again SHell", developed by Brian Fox 
+- **terminal/console** == a specific interface to a shell on a computer; these used to be entire machines, but now they are commonly a program run in a GUI, called "terminal emulators" 
+- **directory** == an "old school" name for what we now call "folders"; a location on a computer that contains directories and files
 
 ### Why use the Linux Shell?
 
@@ -27,7 +31,7 @@ Author: Griffin Brome
 
 ### Starting a Terminal Session
 
-[//]: # This would be a short thing on how to launch a terminal emulator on whatever Linux distro we tell them to install
+[//]: # TODO
 
 ## Basic Navigation and File Operations
 
@@ -80,9 +84,11 @@ The OS is a toolbox, each tool performs only one job
 
 ## System Administration
 
+
 ### Permissions
 
-[//] This will be a short intro to permissions in Linux files (eg. all that stuff in the output of ls -l
+[//]: # TODO
+
 ### Commands
 
 - sudo
@@ -102,3 +108,5 @@ The OS is a toolbox, each tool performs only one job
 ### Basic System Scripts
 
 [//]: # TODO
+
+## See Also
