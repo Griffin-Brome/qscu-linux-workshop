@@ -43,6 +43,7 @@ Authors: Griffin Brome, Barret Jackson
 - what is '.', and '..'
 - ls 
 - 'ls' vs 'ls -A'
+**this would be a great place to talk about flags, e.g. ls -l, ls -a, ls -lha (my personal favourite)**
 
 ### File Operations
 
