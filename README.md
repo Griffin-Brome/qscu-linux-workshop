@@ -108,6 +108,15 @@ The OS is a toolbox, each tool performs only one job
 
 ### Basic System Scripts
 
-[//]: # TODO
+- echo
+- variables
+- user input
+- if statements
+- comparison operators
+- file operations
+- loops
+    - for
+    - while
+- functions
 
 ## See Also
