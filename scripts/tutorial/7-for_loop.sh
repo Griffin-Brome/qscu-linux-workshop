@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 7: for_loop
 NAMES="Ali Bradley Christina Duong"
 for NAME in $NAMES

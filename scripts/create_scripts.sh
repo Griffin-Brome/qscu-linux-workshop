@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 FILE_NAMES="echo variables input if comparison files for_loop while_loop function"
 NUM=1
 EXTENSION="sh"
