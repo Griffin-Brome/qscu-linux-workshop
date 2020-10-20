@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 9: function
 function helloWorld() {
     echo "Hello world!"

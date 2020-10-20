@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 4: if
 read -p "On a scale of one to awesome, how great is this presentation? " RATING
 if [ "$RATING" == 0 ]

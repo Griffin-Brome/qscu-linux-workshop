@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 6: files
 
 FILE="test.txt"

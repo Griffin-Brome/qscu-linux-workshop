@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 8: while_loop
 LINE=1
 while read -r CURRENT_LINE

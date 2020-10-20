@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 5: comparison
 # COMPARISONS
 # x -eq y Returns true if the two values are equal

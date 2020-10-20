@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 # Linux Scripting Tutorial Part 2: variables
 # Uppercase by convention
 # Letters, numbers, underscores are allowed
